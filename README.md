@@ -1,2 +1,3 @@
 # Lab-3-JavaScript
-Live Link: https://kbanyal10.github.io/Lab-3-JavaScript/lab-3.html 
+Live Link: https://sillystory.herokuapp.com/ 
+This will generate a random story for the custom name.
